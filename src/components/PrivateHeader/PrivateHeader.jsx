@@ -17,6 +17,9 @@ export const PrivateHeader = () => {
             LOGO
           </Link>
 
+          <NavLink className={({isActive}) => isActive ? "text-white ms-3" : " ms-3 text-white text-decoration-none"} to="/todos">
+            Todos
+          </NavLink>
           <NavLink className={({isActive}) => isActive ? "text-white ms-3" : " ms-3 text-white text-decoration-none"} to="/posts">
             Posts
           </NavLink>

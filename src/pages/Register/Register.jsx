@@ -24,6 +24,7 @@ export const Regisetr = () => {
         last_name: lastNameRef.current.value,
         email: emailRef.current.value,
         password: passwordRef.current.value,
+        todos: [],
       })
       .then((data) => {
         if(data.status === 201){
