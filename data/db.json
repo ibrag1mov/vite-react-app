@@ -1,0 +1,33 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "email": "ibragimov@mail.ru",
+      "password": "$2a$10$xgtY4StXGfmDzt486kQdnuo.DfPUlDmgFPWmEHAhhSdYKze33xQye",
+      "first_name": "Abdulhay",
+      "last_name": "Ibroximov",
+      "id": 1
+    },
+    {
+      "email": "AFDAS@SDS.SDS",
+      "password": "$2a$10$uoke9RjGLShvg8D.KPMhcOiYvmnj2pXTBDwumuY7D4MgKzo7jQzje",
+      "first_name": "Abdulhay",
+      "last_name": "IBROXIMOV",
+      "id": 2
+    },
+    {
+      "email": "a@a.a",
+      "password": "$2a$10$JOqrgiRQypbE/a0ei8CDHutPY.kbIBULwdzdwwxZPZMiegga0WiN2",
+      "first_name": "Abdulhay",
+      "last_name": "Ibroximov",
+      "id": 3
+    },
+    {
+      "email": "a@d.a",
+      "password": "$2a$10$aw0r2GQWB0QbPa0E0snRDOMiCSnjn/zRPKwtIJF7wUUR9Ezj/iDNO",
+      "first_name": "d",
+      "last_name": "a",
+      "id": 4
+    }
+  ]
+}
